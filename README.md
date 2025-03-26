@@ -1,0 +1,1 @@
+# nix-opencv-rust-example

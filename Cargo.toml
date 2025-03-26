@@ -1,0 +1,11 @@
+[package]
+name = "nix-opencv-rust-example"
+version = "0.0.1"
+description = "Nix opencv-rust example."
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0"
+opencv = "0.92.0"
